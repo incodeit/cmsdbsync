@@ -1,0 +1,30 @@
+{
+  "name": "cmsdbsync",
+  "version": "0.0.1",
+  "description": "upload/donwload db from local cms",
+  "main": "index.js",
+  "bin": {
+    "cmsdbsync": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magnum/cmsdbsync.git"
+  },
+  "keywords": [
+    "cms",
+    "db",
+    "sync",
+    "mysql",
+    "drupal",
+    "wordpress"
+  ],
+  "author": "antonio molinari (magnum)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/magnum/cmsdbsync/issues"
+  },
+  "homepage": "https://github.com/magnum/cmsdbsync#readme"
+}
