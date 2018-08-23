@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/magnum/cmsdbsync/issues"
   },
-  "homepage": "https://github.com/magnum/cmsdbsync#readme"
+  "homepage": "https://github.com/magnum/cmsdbsync#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0"
+  }
 }
